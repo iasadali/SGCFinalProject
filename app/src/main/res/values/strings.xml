@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SGCode</string>
+    <string name="title_activity_home">Scan Get Code</string>
+    <string name="title_tab1">Scan</string>
+    <string name="title_tab2">Generate</string>
+    <string name="title_tab3">Settings</string>
+</resources>
